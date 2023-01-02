@@ -40,7 +40,7 @@ echo 'Install Rectangle'
 brew install --cask rectangle
 
 echo 'Install 1Password'
-brew install --cask 1-password
+brew install --cask 1password
 
 echo 'Install Google Chrome'
 brew install --cask google-chrome
@@ -82,3 +82,4 @@ brew install --cask trainerroad
 echo 'Install VLC Player'
 brew install --cask vlc
 
+open configuration.md
